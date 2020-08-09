@@ -1,3 +1,3 @@
 # shell
 
-Cimple OS shell in C
+Simple OS shell in C
